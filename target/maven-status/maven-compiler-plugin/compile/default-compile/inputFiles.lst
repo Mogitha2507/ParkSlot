@@ -1,0 +1,10 @@
+C:\Users\mogit\DAA\ParkSpot_api\src\main\java\com\parkspot\controller\ParkingController.java
+C:\Users\mogit\DAA\ParkSpot_api\src\main\java\com\parkspot\entity\Flat.java
+C:\Users\mogit\DAA\ParkSpot_api\src\main\java\com\parkspot\entity\ParkingSlot.java
+C:\Users\mogit\DAA\ParkSpot_api\src\main\java\com\parkspot\entity\VisitorVehicle.java
+C:\Users\mogit\DAA\ParkSpot_api\src\main\java\com\parkspot\exception\GlobalExceptionHandler.java
+C:\Users\mogit\DAA\ParkSpot_api\src\main\java\com\parkspot\ParkSpotApplication.java
+C:\Users\mogit\DAA\ParkSpot_api\src\main\java\com\parkspot\repository\FlatRepository.java
+C:\Users\mogit\DAA\ParkSpot_api\src\main\java\com\parkspot\repository\ParkingSlotRepository.java
+C:\Users\mogit\DAA\ParkSpot_api\src\main\java\com\parkspot\repository\VisitorVehicleRepository.java
+C:\Users\mogit\DAA\ParkSpot_api\src\main\java\com\parkspot\service\ParkingService.java

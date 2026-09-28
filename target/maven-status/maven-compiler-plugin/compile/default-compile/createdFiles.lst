@@ -1,0 +1,11 @@
+com\parkspot\entity\VisitorVehicle.class
+com\parkspot\service\ParkingService.class
+com\parkspot\controller\ParkingController.class
+com\parkspot\repository\FlatRepository.class
+com\parkspot\entity\Flat.class
+com\parkspot\entity\ParkingSlot.class
+com\parkspot\repository\VisitorVehicleRepository.class
+com\parkspot\repository\ParkingSlotRepository.class
+com\parkspot\ParkSpotApplication.class
+com\parkspot\controller\ParkingController$EntryRequest.class
+com\parkspot\exception\GlobalExceptionHandler.class
